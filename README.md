@@ -10,6 +10,7 @@
 - Redux
 - Sass
 - PostCSS
+- ESLint
 - Webpack
 
 ## Installation
